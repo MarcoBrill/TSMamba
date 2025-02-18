@@ -31,6 +31,12 @@ Time series forecasting is a critical task in many domains, such as finance, wea
 ## Installation
 To use this repository, clone it to your local machine and install the required dependencies.
 
+### Customization Tips:
+- Replace `your-username` with your GitHub username.
+- Update the dataset format and preprocessing steps if your data is different.
+- Add more details about the TSMamba model if it's a custom or research-based architecture.
+- Include links to research papers or related projects if applicable.
+
 ```bash
 # Clone the repository
 git clone https://github.com/your-username/tsmamba-time-series-forecasting.git
